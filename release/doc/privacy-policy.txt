@@ -1,0 +1,49 @@
+🌸 Bloom 2048 Privacy Policy
+Last updated: April 12, 2026
+
+================================================================
+
+1. Information We Collect
+
+Bloom 2048 ("the App") does not collect any personal information.
+
+- No account registration is required.
+- No personally identifiable information (name, email, phone number) is collected.
+- No location data is collected.
+
+================================================================
+
+2. Data Stored on Device
+
+The App stores the following data locally on your device only:
+
+- Game high scores
+- Sound and vibration settings
+
+This data is never transmitted outside the device and is deleted when the App is uninstalled.
+
+================================================================
+
+3. Third-Party Services
+
+The App does not use any third-party services such as advertising, analytics, or social media integrations.
+
+================================================================
+
+4. Children's Privacy
+
+The App does not intentionally collect personal information from children under 13. Since the App does not collect any personal data, it is safe for users of all ages.
+
+================================================================
+
+5. Changes
+
+This Privacy Policy may be updated. Changes will be communicated through app updates.
+
+================================================================
+
+6. Contact
+
+For questions about this Privacy Policy, please contact:
+
+museholis@gmail.com
